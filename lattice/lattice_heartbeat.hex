@@ -1,0 +1,10 @@
+# Lattice Heartbeat Protocol (hex frames)
+# 01 = version
+# HB = heartbeat marker
+# SS = strength 00-FF
+# TT = tick counter (low byte)
+
+01HB C8 00
+01HB CA 01
+01HB C9 02
+01HB CB 03

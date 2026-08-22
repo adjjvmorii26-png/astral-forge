@@ -1,0 +1,7 @@
+# Collapse Echo 02
+source_seed: seed_02
+cycle: 63
+final_temperature: 1.18
+residual_resonance: 0.34
+echo: "Shear accumulated beyond recovery. Narrative thread snapped; echo preserved."
+reforge_seed_candidate: seed_01

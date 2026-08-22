@@ -1,0 +1,9 @@
+# World Seed 01 — Primordial Lattice
+{
+  "id": "seed_01",
+  "name": "Primordial Lattice",
+  "entropy": 0.15,
+  "initial_resonances": { "alpha": 0.90, "beta": 0.88, "gamma": 0.85, "void": 0.40 },
+  "preferred_distortion": "fold",
+  "description": "Calm origin basin. Ideal for first forge cycles."
+}

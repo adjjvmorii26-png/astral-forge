@@ -1,0 +1,7 @@
+# Collapse Echo 01
+source_seed: seed_03
+cycle: 41
+final_temperature: 1.31
+residual_resonance: 0.29
+echo: "The bloom exceeded critical; lattice folded inward and left this trace."
+reforge_seed_candidate: seed_01

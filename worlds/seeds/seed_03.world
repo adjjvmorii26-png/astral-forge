@@ -1,0 +1,9 @@
+# World Seed 03 — Void Bloom
+{
+  "id": "seed_03",
+  "name": "Void Bloom",
+  "entropy": 0.51,
+  "initial_resonances": { "alpha": 0.61, "beta": 0.55, "gamma": 0.68, "void": 0.79 },
+  "preferred_distortion": "bloom",
+  "description": "High-entropy seed. Void agent dominant. Useful for studying adaptive collapse."
+}

@@ -1,0 +1,9 @@
+# World Seed 02 — Shear Basin
+{
+  "id": "seed_02",
+  "name": "Shear Basin",
+  "entropy": 0.33,
+  "initial_resonances": { "alpha": 0.72, "beta": 0.79, "gamma": 0.81, "void": 0.58 },
+  "preferred_distortion": "shear",
+  "description": "Lateral stress environment. Tests narrative coherence under displacement."
+}
