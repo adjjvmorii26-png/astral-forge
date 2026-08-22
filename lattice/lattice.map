@@ -1,0 +1,12 @@
+# Lattice Topology Map
+# Crystal connections and resonance pathways
+
+SHARD_0001 ──resonant──> SHARD_0002
+SHARD_0002 ──harmonic──> SHARD_0003
+SHARD_0003 ──echo──────> SHARD_0001
+SHARD_0001 ──void──────> SERAPH_VOID
+SHARD_0002 ──alpha─────> SERAPH_ALPHA
+SHARD_0003 ──beta──────> SERAPH_BETA
+CRUCIBLE_CORE ──flux───> ALL_SHARDS
+
+# Strength legend: resonant > harmonic > echo > void

@@ -1,0 +1,6 @@
+# Distortion Catalog (summary)
+# name     | primary effect              | typical temp range
+fold       | recursive inward fold       | 0.40 – 0.70
+shear      | lateral displacement        | 0.55 – 0.90
+liquefy    | boundary softening          | 0.70 – 1.10
+bloom      | expansive amplification     | 0.80 – 1.30
